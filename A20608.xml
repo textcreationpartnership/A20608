@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation sent from Rome, of the processe, sentence, and execution, done vpon the body, picture, and bookes, of Marcus Antonius de Dominis, Archbishop of Spalato, after his death Published by command.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20608</idno>
+            <idno type="STC">STC 7007</idno>
+            <idno type="STC">ESTC S109797</idno>
+            <idno type="EEBO-CITATION">99845442</idno>
+            <idno type="PROQUEST">99845442</idno>
+            <idno type="VID">10341</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20608)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10341)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1350:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation sent from Rome, of the processe, sentence, and execution, done vpon the body, picture, and bookes, of Marcus Antonius de Dominis, Archbishop of Spalato, after his death Published by command.</title>
+               </titleStmt>
+               <extent>[16] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by [George Eld and Miles Flesher? for] John Bill, printer to the Kings most Excellent Maiestie,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printers' names conjectured by STC.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Running title reads: The proceedings at Rome against the Archb. of Spalato.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>De Dominis, Marco Antonio, 1560-1624 --  Death and burial --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:10341:1"/>
+            <p>
+               <figure>
+                  <figDesc>skull and crossbones with recumbent human skeleton</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:10341:1"/>
+            <p>A RELATION Sent from ROME, OF THE PROCESSE, SENTENCE, AND EXECVTION, <hi>Done</hi> Vpon the Body, Picture, and Bookes, <hi>Of</hi> MARCVS ANTONIVS de Dominis, Archbiſhop of <hi>Spalato,</hi> after his death.</p>
+            <p>Publiſhed by Command.</p>
+            <p>LONDON, ¶ Printed by <hi>John Bill,</hi> Printer to the Kings moſt Excellent Maieſtie. 1624.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:10341:2"/>
+            <pb facs="tcp:10341:2"/>
+            <head>A RELATION OF THE PROCEEDINGS <hi>at Rome,</hi> Againſt the late Archb. of SPALATO, And the burning of his dead <hi>Body, &amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He late Archbi<g ref="char:EOLhyphen"/>ſhop of <hi>Spalato</hi> being dead, his <hi>Body</hi> was put into a well pit<g ref="char:EOLhyphen"/>ched Coffin, and that into another greater than it; and ſo was
+<pb facs="tcp:10341:3"/>it carried to be kept in the <hi>Conuent</hi> of the <hi>Holy Apoſtles,</hi> and there com<g ref="char:EOLhyphen"/>mitted to the charge of the Reue<g ref="char:EOLhyphen"/>rend Fathers of that place, vntill ſuch time as the Cauſe of the ſaid Archbiſhop (ſtill depending) ſhould be determined by the <hi>Sacred Congregation;</hi> that according to their Sentence, whatſoeuer iuſtice did require might bee done vpon him.</p>
+            <p>The <hi>Sentence</hi> being framed, and ready to bee put in execution, the ſaid <hi>Body</hi> was firſt recognized, ac<g ref="char:EOLhyphen"/>cording to the Forme of Law; and was taken the twentieth of this pre<g ref="char:EOLhyphen"/>ſent Moneth of December forth from the Conuent where it was kept, and caried to the Church of <hi>Minerua,</hi> and there laid vpon a Ta<g ref="char:EOLhyphen"/>ble in an eminent place, together with his <hi>Picture,</hi> and a little ſacke full
+<pb facs="tcp:10341:3"/>of <hi>Bookes,</hi> which He had printed: where it ſtood all the night.</p>
+            <p>The next morning at the time appointed, the moſt Illuſtrious, and moſt Reuerend Lords <hi>Cardinalls</hi> Supreme Inquiſitors, with many o<g ref="char:EOLhyphen"/>thers, (to the number of ſixteene, or thereabout,) being met together, after they had deliuered ouer a cer<g ref="char:EOLhyphen"/>taine <hi>Millanois</hi> (who vnder the feig<g ref="char:EOLhyphen"/>ned name and habit of a <hi>Greeke,</hi> not<g ref="char:EOLhyphen"/>withſtanding he had neuer beene made Prieſt, had preſumed to cele<g ref="char:EOLhyphen"/>brate Maſſe both in the Holy Houſe of <hi>Loretto,</hi> and other where) vnto the Secular Powers the 23. of this preſent Moneth aforeſaid, to be firſt hanged, and then afterwards burnt, was the <hi>Sentence</hi> of the ſaid Archbiſhop read to this effect.</p>
+            <p>Firſt of all, The Manner of his Eſcape and going into <hi>England</hi> was
+<pb facs="tcp:10341:4"/>recompted; and what he had there done in preaching, and in printing; and how that vpon better aduice, and bethinking of himſelfe, he pre<g ref="char:EOLhyphen"/>ferred a <hi>Supplication</hi> vnto our Lord the Pope, ſhewing, that hee would willingly returne againe into the boſome of the <hi>Holy Church,</hi> if hee might be ſecured of his pardon; and alſo that he would abiure all and e<g ref="char:EOLhyphen"/>uery hereſie which he had hereto<g ref="char:EOLhyphen"/>fore maintained. He came to <hi>Rome,</hi> He did all accordingly, He obtai<g ref="char:EOLhyphen"/>ned grace, and pardon of his Holi<g ref="char:EOLhyphen"/>neſſe, and ſo continued there for a long time.</p>
+            <p>But becauſe his <hi>Conuerſion</hi> was not ſincere, and from his heart, but feigned only; He began at length in his familiar diſcourſes, to breake forth into moſt heinous hereſies, and would needs maintaine, that
+<pb facs="tcp:10341:4"/>what hee had ſaid before was true.</p>
+            <p>Thereupon hee was put into the <hi>Holy Inquiſition;</hi> and in the <hi>Proceſſe</hi> which was framed againſt him, we finde that he held the <hi>Hereſies</hi> here vnder written.</p>
+            <p n="1">1 <hi>THat the Councell of</hi> Trent <hi>had declared many things to be</hi> de fide, <hi>which were not.</hi>
+            </p>
+            <p n="2">2 <hi>That all the Sects of Heretickes might be reduced vnto one Church, if the Church of</hi> Rome <hi>would remit ſome of thoſe things, which in proceſſe of time ſhe had determined to be</hi> de fide, <hi>inſtancing in particular in the Article of</hi> Tranſub<g ref="char:EOLhyphen"/>ſtantiation.</p>
+            <p n="3">3 <hi>That there might be made an vnion betweene the Church of</hi> Rome <hi>and the</hi> Proteſtant <hi>Heretickes, they both agree<g ref="char:EOLhyphen"/>ing in</hi> articulis fundamentalibus.</p>
+            <p n="4">4 <hi>That it may well be queſtioned, of
+<pb facs="tcp:10341:5"/>ſome Articles, and of many things defined in the Councell of</hi> Trent <hi>to be</hi> de fide, <hi>whether they were ſufficiently diſcuſſed, and defined, yea or no.</hi>
+            </p>
+            <p n="5">5 <hi>That he who holdeth and beleeueth the</hi> Fundamentall <hi>Articles, although he doth not hold the</hi> Reſt, <hi>is not therfore ſe<g ref="char:EOLhyphen"/>parated from the Church, but is vnited to it in the Faith. Becauſe that only the</hi> Fundamentall <hi>and</hi> Eſſential <hi>Articles, are</hi> neceſſary <hi>to ſaluation. The</hi> reſt <hi>are matters of</hi> controuerſie.</p>
+            <p n="6">6 <hi>That what the Councell of</hi> Trent <hi>hath defined to be</hi> de fide <hi>in matter of Juſtification, of Predeſtination, of Grace, and of the Sacraments, that they con<g ref="char:EOLhyphen"/>ferre grace</hi> ex opere operato, <hi>belongeth not to the Faith.</hi>
+            </p>
+            <p n="7">7 <hi>That he was ready to maintaine, euen with the loſſe of his life, that all men might abound in their owne ſenſe (in other matters,) ſo that they did a<g ref="char:EOLhyphen"/>gree
+<pb facs="tcp:10341:5"/>in</hi> Eſſentialibus fidei.</p>
+            <p n="8">8 <hi>That the</hi> Primacie <hi>of the Pope of</hi> Rome <hi>is not</hi> de iure diuino, <hi>or at leaſt, it may be diſputed whether it be, or be not, vntill ſuch time as the queſtion may be decided.</hi>
+            </p>
+            <p n="9">9 <hi>That the</hi> Anathematiſmes <hi>of the Councell of</hi> Trent, <hi>are no definitions of Articles of Faith.</hi>
+            </p>
+            <p n="10">10 <hi>That the Hereticks were not con<g ref="char:EOLhyphen"/>demned in the Councell of</hi> Trent <hi>for any Hereſies that they taught; but only, be<g ref="char:EOLhyphen"/>cauſe they taxed the Church of</hi> Rome <hi>of Hereſie.</hi>
+            </p>
+            <p n="11">11 <hi>That to deny Tranſubstantiation, Purgatory, and worſhipping of Jmages and Saints, is not to deny matters that belong to the ſubſtance of Faith. That therefore the</hi> Proteſtants <hi>haue the</hi> true <hi>Faith, and the</hi> true <hi>Church.</hi>
+            </p>
+            <p n="12">12 <hi>That the Church of</hi> Rome, <hi>and the Church of</hi> England <hi>are</hi> one <hi>and the</hi>
+               <pb facs="tcp:10341:6"/>ſame <hi>Church, both the one, and the other,</hi> Catholike <hi>and</hi> Orthodox.</p>
+            <p n="13">13 <hi>That it is not</hi> de fide, <hi>that a Ge<g ref="char:EOLhyphen"/>nerall Councell, together with the Pope, is the Iudge of controuerſies of the Faith.</hi>
+            </p>
+            <p n="14">14 <hi>That the bond of Matrimony ſo<g ref="char:EOLhyphen"/>lemnized and conſummated, may be diſ<g ref="char:EOLhyphen"/>ſolued by the adulterie of either partie.</hi>
+            </p>
+            <p n="15">15 <hi>That the bond of Matrimonie may be diſſolued as well for other cauſes, as for adulterie.</hi>
+            </p>
+            <p n="16">16 <hi>That the Secular Prince vpon a reaſonable cauſe may ordaine, that the bond of Matrimonie ſolemnized and conſummated, may be diſſolued.</hi>
+            </p>
+            <p>There were ſome other Articles be<g ref="char:EOLhyphen"/>ſides, but they fall within the compaſſe of theſe.</p>
+            <p>
+               <pb facs="tcp:10341:6"/>
+After theſe falſe and hereticall Propoſitions were read; it was re<g ref="char:EOLhyphen"/>lated how they that were of the kindred of the ſaid Archbiſhop, (or whoſoeuer elſe would pretend to bee willing to vndertake the de<g ref="char:EOLhyphen"/>fence of his cauſe) were cited; And ſome of them made their apparance at the time appointed them; but when they ſaw the <hi>Proceſſe,</hi> toge<g ref="char:EOLhyphen"/>ther with the Archbiſhops owne <hi>Confeſsions,</hi> they renounced him, and would doe nothing in his behalfe. Whereupon the moſt Illuſtrious and moſt Reuerend Lords procee<g ref="char:EOLhyphen"/>ded vnto a definitiue <hi>Sentence.</hi> 
+               <q>Which was, to declare him vn<g ref="char:EOLhyphen"/>worthy of the fauour of the Holy Sea Apoſtolike; to depriue him of all his honour, benefit, or dignitie; to confiſcate his goods, and to giue him ouer to the Secular Powers; as
+<pb facs="tcp:10341:7"/>
+                  <hi>De facto</hi> they then gaue him ouer, That <hi>He</hi> and his <hi>Picture,</hi> together with the <hi>Bookes</hi> he had written, ſhould be burned.</q>
+            </p>
+            <p>This <hi>Sentence</hi> being read, the ſaid <hi>Coffin</hi> there preſent, the <hi>Picture,</hi> and the <hi>Bookes</hi> were deliuered ouer to my Lord the Gouernor of <hi>Rome,</hi> who deſired, that the <hi>Corps</hi> might be reuiewed, and recognized anew; which was done accordingly. And preſently the ſaid Gouernor gaue order, that the <hi>Corps</hi> together with the other things ſhould bee carried into <hi>Campo di Fiori,</hi> to bee there bur<g ref="char:EOLhyphen"/>ned.</p>
+            <p>But becauſe they found no man that was willing of himſelfe to carry him to the ſaid place; therefore the Serieants tooke vp certaine Porters, whom they bound and conſtrained to goe along with them, and to take
+<pb facs="tcp:10341:7"/>vp the ſaid <hi>Corps, Picture,</hi> and <hi>Bookes,</hi> which being caried into <hi>Campo di Fiori,</hi> were there inſtantly burned.</p>
+            <p>And becauſe the ſaid Archbiſhop, towards the end of his life, made ſhew as if he had beene penitent for the hereſies which hee had held <hi>de nouo,</hi> after his former abiuration, and asking pardon for them, he had the fauour done him to be made parta<g ref="char:EOLhyphen"/>ker of the moſt holy Sacraments. But notwithſtanding becauſe hee had relapſed, He was therefore gi<g ref="char:EOLhyphen"/>uen ouer to the Secular Power. Which was all that occurred in this action.</p>
+            <closer>
+               <signed>INSCRIPTIO.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
